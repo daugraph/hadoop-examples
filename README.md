@@ -6,6 +6,8 @@ mvn assembly:assembly
 ## Run
 ```bash
 java -jar target/hadoop-examples-1.0-SNAPSHOT-jar-with-dependencies.jar server
-or
+```
+OR
+```bash
 java -jar target/hadoop-examples-1.0-SNAPSHOT-jar-with-dependencies.jar client
 ```
